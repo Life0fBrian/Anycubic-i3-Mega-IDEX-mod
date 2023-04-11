@@ -17,7 +17,3 @@ The coldend will be cooled by a 30 mm axial fan and the printed model is being c
 
 ## Changelog:
 - 2023-04-11: Creation of this project
-
-
-## License:
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
