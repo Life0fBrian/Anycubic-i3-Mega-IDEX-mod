@@ -43,4 +43,4 @@ Intention is to print the parts with ASA-CF for more rigidity. But ABS or ASA sh
 ## Changelog:
 - 2023-04-11: Creation of this project
 - 2023-04-21: Upload of print heads STLs
-- 2023-05-22: Upload of left and right X mounts
+- 2023-05-22: Upload of left and right X axis mounts and respective motor mounts
