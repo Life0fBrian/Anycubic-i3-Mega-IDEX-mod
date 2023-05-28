@@ -13,7 +13,6 @@ It uses E3D compatible V6 hotends with M12 threaded heatsinks and ceramic heatin
 ![print_heads_close1](https://user-images.githubusercontent.com/84620081/231166961-236a1625-e9de-4f42-af86-ebdb551d7c6d.JPG)
 The coldend will be cooled by a 30 mm axial fan and the printed model is being cooled by a powerful GDSTIME 4010 radial fan with 12k RPM.
 
-After the design is in a final form it will be measured against the real life printer to rule out some printer model errors.
 Intention is to print the parts with ASA-CF for more rigidity. But ABS or ASA should be fine as well.
 
 ## Features:
@@ -26,7 +25,7 @@ Intention is to print the parts with ASA-CF for more rigidity. But ABS or ASA sh
 - bowden setups for light weight print heads
 
 ## Electronics:
-- You will need a board with at least 6 driver sockets.
+- You will need a board with at least 7 driver sockets.
 - Upgrade to 24 V PSU and board and all fans (mind the heating bed as well!).
 
 ## BOM:
