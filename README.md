@@ -43,3 +43,4 @@ Intention is to print the parts with ASA-CF for more rigidity. But ABS or ASA sh
 - 2023-04-11: Creation of this project
 - 2023-04-21: Upload of print heads STLs
 - 2023-05-22: Upload of left and right X axis mounts and respective motor mounts
+- 2023-05-28: Replaced X axis mounts with v2 versions and corrected linear bearing diameter (reference Anycubic i3 Mega model was wrong here)
