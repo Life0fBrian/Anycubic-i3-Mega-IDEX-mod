@@ -2,7 +2,7 @@
 This mod converts the Anycubic i3 Mega into an IDEX 3D printer.
 ![all1](https://user-images.githubusercontent.com/84620081/231165230-d3afbbfe-5f22-417b-bd14-b3eb3cc21254.JPG)
 
-The project is currently still in its design phase and has not been brought to life yet.
+The project is currently still in its design phase but already printed to build a first version.
 It uses a 1515 aluminum extrusion and MGN12 linear rail for the X gantry.
 (The printer itself will get a linear rail mod for the bed as well and upgrades to 24V.)
 ![x_gantry1](https://user-images.githubusercontent.com/84620081/231167820-eca77ade-9970-43e1-a085-4397b2fd5f43.JPG)
@@ -21,7 +21,7 @@ Intention is to print the parts with ASA-CF for more rigidity. But ABS or ASA sh
 - V6 hotends with CHC blocks and threaded heatsinks
 - 30 mm coldend fan
 - 4010 mm radial fan for part cooling
-- endstops on both ends of the X rail and on right print head to have multiple homing options
+- endstops on both ends of the X rail and on right print head to have multiple homing options (prefer mechanical micro switches due to better precision)
 - bowden setups for light weight print heads
 
 ## Electronics:
@@ -44,3 +44,4 @@ Intention is to print the parts with ASA-CF for more rigidity. But ABS or ASA sh
 - 2023-04-21: Upload of print heads STLs
 - 2023-05-22: Upload of left and right X axis mounts and respective motor mounts
 - 2023-05-28: Replaced X axis mounts with v2 versions and corrected linear bearing diameter (reference Anycubic i3 Mega model was wrong here)
+- 2023-06-16: Updated right motor mount (more rigid pulley stand off) and added mod for Y axis tensioner for use of original bed/linear rails.
