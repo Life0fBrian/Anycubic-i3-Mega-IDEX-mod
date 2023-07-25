@@ -45,3 +45,4 @@ Intention is to print the parts with ASA-CF for more rigidity. But ABS or ASA sh
 - 2023-05-22: Upload of left and right X axis mounts and respective motor mounts
 - 2023-05-28: Replaced X axis mounts with v2 versions and corrected linear bearing diameter (reference Anycubic i3 Mega model was wrong here)
 - 2023-06-16: Updated right motor mount (more rigid pulley stand off) and added mod for Y axis tensioner for use of original bed/linear rails.
+- 2023-07-25: Upload of left and right waste bucket and mould for the nozzle lips.
