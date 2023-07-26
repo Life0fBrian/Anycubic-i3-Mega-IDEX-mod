@@ -1,12 +1,13 @@
 # Anycubic-i3-Mega-IDEX-mod
 This mod converts the Anycubic i3 Mega into an IDEX 3D printer.
-![all1](https://user-images.githubusercontent.com/84620081/231165230-d3afbbfe-5f22-417b-bd14-b3eb3cc21254.JPG)
+![all1](https://github.com/Life0fBrian/Anycubic-i3-Mega-IDEX-mod/assets/84620081/62eca827-2288-4ce1-8186-a3deaa94304b)
+
 
 The project is currently still in its design phase but already printed to build a first version.
 It uses a 1515 aluminum extrusion and MGN12 linear rail for the X gantry.
 (The printer itself will get a linear rail mod for the bed as well and upgrades to 24V.)
-![x_gantry1](https://user-images.githubusercontent.com/84620081/231167820-eca77ade-9970-43e1-a085-4397b2fd5f43.JPG)
-![x_gantry_rear1](https://user-images.githubusercontent.com/84620081/231167839-94bfd6d9-bd2c-4763-83f4-73f2a0bf0cd2.JPG)
+![x_gantry1](https://github.com/Life0fBrian/Anycubic-i3-Mega-IDEX-mod/assets/84620081/01d65786-1f60-4a0d-a601-f4b2af247d2b)
+![x_gantry_rear1](https://github.com/Life0fBrian/Anycubic-i3-Mega-IDEX-mod/assets/84620081/ab8663a3-a84a-4883-af61-64959591c03f)
 
 The two independent print heads are driven by 1.8° Nema17 pancake stepper motors to save weight.
 It uses E3D compatible V6 hotends with M12 threaded heatsinks and ceramic heating cores to get a small size:
